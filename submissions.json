@@ -406,6 +406,21 @@
       "time": 1794340683,
       "file": "codeforces/263/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398075269,
+      "contestId": 281,
+      "index": "A",
+      "name": "Word Capitalization",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794341275,
+      "file": "codeforces/281/A.cpp",
+      "skip": false
     }
   ]
 }

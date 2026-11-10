@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**4** problems solved
+**5** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 5 | [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) | [C++17 (GCC 7-32)](codeforces/281/A.cpp) | `implementation` `strings` `*800` | Nov/11/2026 02:07 |
 | 4 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [C++17 (GCC 7-32)](codeforces/263/A.cpp) | `implementation` `*800` | Nov/11/2026 01:58 |
 | 3 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [C++17 (GCC 7-32)](codeforces/236/A.cpp) | `brute force` `implementation` `strings` `*800` | Nov/11/2026 01:42 |
 | 2 | [A - Petya and Strings](https://codeforces.com/contest/112/problem/A) | [C++17 (GCC 7-32)](codeforces/112/A.cpp) | `implementation` `strings` `*800` | Nov/10/2026 23:45 |
