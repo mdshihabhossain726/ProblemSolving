@@ -376,6 +376,22 @@
       "time": 1794332751,
       "file": "codeforces/112/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398073981,
+      "contestId": 236,
+      "index": "A",
+      "name": "Boy or Girl",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794339742,
+      "file": "codeforces/236/A.cpp",
+      "skip": false
     }
   ]
 }
