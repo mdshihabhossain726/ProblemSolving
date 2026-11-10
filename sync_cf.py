@@ -16,15 +16,20 @@ machine, plus submissions.json (a log of accepted submissions).
 """
 import argparse
 import json
+import re
 import subprocess
 import sys
 import time
+import datetime
 import urllib.parse
 import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 STATE = ROOT / "submissions.json"
+README = ROOT / "README.md"
+START = "<!-- SUBMISSIONS:START -->"
+END = "<!-- SUBMISSIONS:END -->"
 SOL_DIR = ROOT / "codeforces"
 API = "https://codeforces.com/api/user.status"
 
@@ -79,6 +84,35 @@ def find_solution(contest_id, index, lang):
     return matches[0].relative_to(ROOT).as_posix() if matches else None
 
 
+def build_table(state):
+    rows = [r for r in state["submissions"] if r.get("file")]
+    rows.sort(key=lambda r: r["time"], reverse=True)
+    out = [f"**{len(rows)}** problem{'s' if len(rows) != 1 else ''} solved", "",
+           "| # | Title | Solution | Tags | Submitted |",
+           "|---|-------|----------|------|-----------|"]
+    for n, r in zip(range(len(rows), 0, -1), rows):
+        link = f"https://codeforces.com/contest/{r['contestId']}/problem/{r['index']}"
+        title = f"[{r['index']} - {r['name']}]({link})".replace("|", "\\|")
+        sol = f"[{r['language']}]({r['file']})"
+        tags = [f"`{t}`" for t in r.get("tags", [])]
+        if r.get("rating"):
+            tags.append(f"`*{r['rating']}`")
+        when = datetime.datetime.fromtimestamp(r["time"]).strftime("%b/%d/%Y %H:%M")
+        out.append(f"| {n} | {title} | {sol} | {' '.join(tags)} | {when} |")
+    return "\n".join(out)
+
+
+def update_readme(state):
+    block = f"{START}\n{build_table(state)}\n{END}"
+    text = README.read_text(encoding="utf-8") if README.exists() else "# ProblemSolving\n"
+    if START in text and END in text:
+        text = re.sub(re.escape(START) + r".*?" + re.escape(END),
+                      lambda m: block, text, flags=re.S)
+    else:
+        text = text.rstrip() + "\n\n## Submissions\n\n" + block + "\n"
+    README.write_text(text, encoding="utf-8")
+
+
 def run_once(args):
     state = load_state()
     first_run = state is None
@@ -125,10 +159,11 @@ def run_once(args):
             continue
         r["file"] = path
         save_state(state)
+        update_readme(state)
         msg = f"CF {r['contestId']}{r['index']} - {r['name']}"
         if r.get("rating"):
             msg += f" [{r['rating']}]"
-        paths = [STATE.name, path]
+        paths = [STATE.name, README.name, path]
         git("add", "--", *paths)
         if git("diff", "--cached", "--quiet", "--", *paths, check=False).returncode == 0:
             continue  # nothing new to commit
@@ -137,6 +172,12 @@ def run_once(args):
         committed += 1
 
     save_state(state)
+    update_readme(state)
+    git("add", "--", README.name)
+    if git("diff", "--cached", "--quiet", "--", README.name, check=False).returncode != 0:
+        git("commit", "-m", "Update README", "--", README.name)
+        print("+ committed: Update README")
+        committed += 1
     if committed:
         git("push", "-u", "origin", "HEAD")
         print("pushed to GitHub")
