@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**1** problem solved
+**2** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 2 | [A - Petya and Strings](https://codeforces.com/contest/112/problem/A) | [C++17 (GCC 7-32)](codeforces/112/A.cpp) | `implementation` `strings` `*800` | Nov/10/2026 23:45 |
 | 1 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [C++17 (GCC 7-32)](codeforces/4/A.cpp) | `brute force` `math` `*800` | Nov/10/2026 22:48 |
 <!-- SUBMISSIONS:END -->
 

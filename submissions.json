@@ -361,6 +361,21 @@
       "file": "codeforces/4/A.cpp",
       "skip": false,
       "warned": true
+    },
+    {
+      "id": 398063945,
+      "contestId": 112,
+      "index": "A",
+      "name": "Petya and Strings",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794332751,
+      "file": "codeforces/112/A.cpp",
+      "skip": false
     }
   ]
 }
