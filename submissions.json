@@ -1,0 +1,366 @@
+{
+  "handle": "shihab726",
+  "submissions": [
+    {
+      "id": 335295246,
+      "contestId": 4,
+      "index": "A",
+      "name": "Watermelon",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1756034709,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 335295819,
+      "contestId": 71,
+      "index": "A",
+      "name": "Way Too Long Words",
+      "rating": 800,
+      "tags": [
+        "strings"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1756035034,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 335297688,
+      "contestId": 231,
+      "index": "A",
+      "name": "Team",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1756036037,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 335302604,
+      "contestId": 282,
+      "index": "A",
+      "name": "Bit++",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1756038936,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 335302846,
+      "contestId": 1,
+      "index": "A",
+      "name": "Theatre Square",
+      "rating": 1000,
+      "tags": [
+        "math"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1756039094,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 335303015,
+      "contestId": 158,
+      "index": "A",
+      "name": "Next Round",
+      "rating": 800,
+      "tags": [
+        "*special",
+        "implementation"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1756039182,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385763531,
+      "contestId": 339,
+      "index": "A",
+      "name": "Helpful Maths",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings",
+        "strings"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785937048,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385765974,
+      "contestId": 160,
+      "index": "A",
+      "name": "Twins",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "sortings"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785938341,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385766754,
+      "contestId": 405,
+      "index": "A",
+      "name": "Gravity Flip",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785938723,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385768111,
+      "contestId": 1399,
+      "index": "A",
+      "name": "Remove Smallest",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785939402,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385770070,
+      "contestId": 158,
+      "index": "A",
+      "name": "Next Round",
+      "rating": 800,
+      "tags": [
+        "*special",
+        "implementation"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785940407,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385771642,
+      "contestId": 58,
+      "index": "A",
+      "name": "Chat room",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "strings"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785941225,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385773002,
+      "contestId": 996,
+      "index": "A",
+      "name": "Hit the Lottery",
+      "rating": 800,
+      "tags": [
+        "dp",
+        "greedy"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785942027,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385774505,
+      "contestId": 1328,
+      "index": "A",
+      "name": "Divisibility Problem",
+      "rating": 800,
+      "tags": [
+        "math"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785942908,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385775897,
+      "contestId": 455,
+      "index": "A",
+      "name": "Boredom",
+      "rating": 1500,
+      "tags": [
+        "dp"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785943769,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385777101,
+      "contestId": 189,
+      "index": "A",
+      "name": "Cut Ribbon",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "dp"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785944514,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385778288,
+      "contestId": 706,
+      "index": "B",
+      "name": "Interesting drink",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "dp",
+        "implementation"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785945280,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385779869,
+      "contestId": 466,
+      "index": "C",
+      "name": "Number of Ways",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "two pointers"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785946232,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385783652,
+      "contestId": 313,
+      "index": "B",
+      "name": "Ilya and Queries",
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "implementation"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785948273,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385784316,
+      "contestId": 474,
+      "index": "D",
+      "name": "Flowers",
+      "rating": 1700,
+      "tags": [
+        "dp"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785948557,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385784942,
+      "contestId": 1182,
+      "index": "A",
+      "name": "Filling Shapes",
+      "rating": 1000,
+      "tags": [
+        "dp",
+        "math"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785948852,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385786019,
+      "contestId": 1030,
+      "index": "A",
+      "name": "In Search of an Easy Problem",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785949402,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 385787099,
+      "contestId": 20,
+      "index": "C",
+      "name": "Dijkstra?",
+      "rating": 1900,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ],
+      "language": "C++20 (GCC 13-64)",
+      "time": 1785949877,
+      "file": null,
+      "skip": true
+    },
+    {
+      "id": 398058396,
+      "contestId": 4,
+      "index": "A",
+      "name": "Watermelon",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794329284,
+      "file": "codeforces/4/A.cpp",
+      "skip": false,
+      "warned": true
+    }
+  ]
+}
