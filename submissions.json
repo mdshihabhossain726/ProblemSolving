@@ -392,6 +392,20 @@
       "time": 1794339742,
       "file": "codeforces/236/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398074769,
+      "contestId": 263,
+      "index": "A",
+      "name": "Beautiful Matrix",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794340683,
+      "file": "codeforces/263/A.cpp",
+      "skip": false
     }
   ]
 }
