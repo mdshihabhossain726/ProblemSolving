@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**8** problems solved
+**9** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 9 | [A - Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | [C++17 (GCC 7-32)](codeforces/977/A.cpp) | `implementation` `*800` | Nov/11/2026 17:52 |
 | 8 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [C++17 (GCC 7-32)](codeforces/791/A.cpp) | `implementation` `*800` | Nov/11/2026 17:21 |
 | 7 | [A - Anton and Danik](https://codeforces.com/contest/734/problem/A) | [C++17 (GCC 7-32)](codeforces/734/A.cpp) | `implementation` `strings` `*800` | Nov/11/2026 17:00 |
 | 6 | [A - Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | [C++17 (GCC 7-32)](codeforces/546/A.cpp) | `brute force` `implementation` `math` `*800` | Nov/11/2026 16:36 |

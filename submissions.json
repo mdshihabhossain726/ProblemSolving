@@ -466,6 +466,20 @@
       "time": 1794396070,
       "file": "codeforces/791/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398125716,
+      "contestId": 977,
+      "index": "A",
+      "name": "Wrong Subtraction",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794397976,
+      "file": "codeforces/977/A.cpp",
+      "skip": false
     }
   ]
 }
