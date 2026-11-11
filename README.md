@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**7** problems solved
+**8** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 8 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [C++17 (GCC 7-32)](codeforces/791/A.cpp) | `implementation` `*800` | Nov/11/2026 17:21 |
 | 7 | [A - Anton and Danik](https://codeforces.com/contest/734/problem/A) | [C++17 (GCC 7-32)](codeforces/734/A.cpp) | `implementation` `strings` `*800` | Nov/11/2026 17:00 |
 | 6 | [A - Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | [C++17 (GCC 7-32)](codeforces/546/A.cpp) | `brute force` `implementation` `math` `*800` | Nov/11/2026 16:36 |
 | 5 | [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) | [C++17 (GCC 7-32)](codeforces/281/A.cpp) | `implementation` `strings` `*800` | Nov/11/2026 02:07 |

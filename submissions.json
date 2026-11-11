@@ -452,6 +452,20 @@
       "time": 1794394820,
       "file": "codeforces/734/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398122726,
+      "contestId": 791,
+      "index": "A",
+      "name": "Bear and Big Brother",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794396070,
+      "file": "codeforces/791/A.cpp",
+      "skip": false
     }
   ]
 }
