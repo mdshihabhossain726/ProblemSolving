@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**5** problems solved
+**6** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 6 | [A - Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | [C++17 (GCC 7-32)](codeforces/546/A.cpp) | `brute force` `implementation` `math` `*800` | Nov/11/2026 16:36 |
 | 5 | [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) | [C++17 (GCC 7-32)](codeforces/281/A.cpp) | `implementation` `strings` `*800` | Nov/11/2026 02:07 |
 | 4 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [C++17 (GCC 7-32)](codeforces/263/A.cpp) | `implementation` `*800` | Nov/11/2026 01:58 |
 | 3 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [C++17 (GCC 7-32)](codeforces/236/A.cpp) | `brute force` `implementation` `strings` `*800` | Nov/11/2026 01:42 |

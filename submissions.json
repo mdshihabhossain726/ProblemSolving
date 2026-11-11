@@ -421,6 +421,22 @@
       "time": 1794341275,
       "file": "codeforces/281/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398118293,
+      "contestId": 546,
+      "index": "A",
+      "name": "Soldier and Bananas",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794393391,
+      "file": "codeforces/546/A.cpp",
+      "skip": false
     }
   ]
 }
