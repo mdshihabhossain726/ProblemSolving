@@ -437,6 +437,21 @@
       "time": 1794393391,
       "file": "codeforces/546/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398120543,
+      "contestId": 734,
+      "index": "A",
+      "name": "Anton and Danik",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794394820,
+      "file": "codeforces/734/A.cpp",
+      "skip": false
     }
   ]
 }
