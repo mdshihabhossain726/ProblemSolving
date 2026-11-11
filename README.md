@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**10** problems solved
+**11** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 11 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [C++17 (GCC 7-32)](codeforces/69/A.cpp) | `implementation` `math` `*1000` | Nov/11/2026 19:37 |
 | 10 | [A - Minimal Square](https://codeforces.com/contest/1360/problem/A) | [C++17 (GCC 7-32)](codeforces/1360/A.cpp) | `greedy` `math` `*800` | Nov/11/2026 19:02 |
 | 9 | [A - Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | [C++17 (GCC 7-32)](codeforces/977/A.cpp) | `implementation` `*800` | Nov/11/2026 17:52 |
 | 8 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [C++17 (GCC 7-32)](codeforces/791/A.cpp) | `implementation` `*800` | Nov/11/2026 17:21 |
