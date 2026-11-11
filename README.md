@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**11** problems solved
+**12** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 12 | [A - String Task](https://codeforces.com/contest/118/problem/A) | [C++17 (GCC 7-32)](codeforces/118/A.cpp) | `implementation` `strings` `*1000` | Nov/12/2026 00:47 |
 | 11 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [C++17 (GCC 7-32)](codeforces/69/A.cpp) | `implementation` `math` `*1000` | Nov/11/2026 19:37 |
 | 10 | [A - Minimal Square](https://codeforces.com/contest/1360/problem/A) | [C++17 (GCC 7-32)](codeforces/1360/A.cpp) | `greedy` `math` `*800` | Nov/11/2026 19:02 |
 | 9 | [A - Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | [C++17 (GCC 7-32)](codeforces/977/A.cpp) | `implementation` `*800` | Nov/11/2026 17:52 |

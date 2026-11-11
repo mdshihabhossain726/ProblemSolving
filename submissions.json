@@ -510,6 +510,21 @@
       "time": 1794404261,
       "file": "codeforces/69/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398166467,
+      "contestId": 118,
+      "index": "A",
+      "name": "String Task",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "strings"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794422821,
+      "file": "codeforces/118/A.cpp",
+      "skip": false
     }
   ]
 }
