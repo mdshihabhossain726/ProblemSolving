@@ -480,6 +480,21 @@
       "time": 1794397976,
       "file": "codeforces/977/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398133090,
+      "contestId": 1360,
+      "index": "A",
+      "name": "Minimal Square",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794402131,
+      "file": "codeforces/1360/A.cpp",
+      "skip": false
     }
   ]
 }

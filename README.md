@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**9** problems solved
+**10** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 10 | [A - Minimal Square](https://codeforces.com/contest/1360/problem/A) | [C++17 (GCC 7-32)](codeforces/1360/A.cpp) | `greedy` `math` `*800` | Nov/11/2026 19:02 |
 | 9 | [A - Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | [C++17 (GCC 7-32)](codeforces/977/A.cpp) | `implementation` `*800` | Nov/11/2026 17:52 |
 | 8 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [C++17 (GCC 7-32)](codeforces/791/A.cpp) | `implementation` `*800` | Nov/11/2026 17:21 |
 | 7 | [A - Anton and Danik](https://codeforces.com/contest/734/problem/A) | [C++17 (GCC 7-32)](codeforces/734/A.cpp) | `implementation` `strings` `*800` | Nov/11/2026 17:00 |
