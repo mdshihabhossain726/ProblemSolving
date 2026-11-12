@@ -598,6 +598,18 @@
       "time": 1794500350,
       "file": "codeforces/2290/F.cpp",
       "skip": false
+    },
+    {
+      "id": 398338980,
+      "contestId": 2290,
+      "index": "G1",
+      "name": "Lakeside Trail (Easy Version)",
+      "rating": null,
+      "tags": [],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794500677,
+      "file": "codeforces/2290/G1.cpp",
+      "skip": false
     }
   ]
 }

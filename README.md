@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**17** problems solved
+**18** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 18 | [G1 - Lakeside Trail (Easy Version)](https://codeforces.com/contest/2290/problem/G1) | [C++17 (GCC 7-32)](codeforces/2290/G1.cpp) |  | Nov/12/2026 22:24 |
 | 17 | [F - Value Counters](https://codeforces.com/contest/2290/problem/F) | [C++17 (GCC 7-32)](codeforces/2290/F.cpp) |  | Nov/12/2026 22:19 |
 | 16 | [E - Avalanche](https://codeforces.com/contest/2290/problem/E) | [C++17 (GCC 7-32)](codeforces/2290/E.cpp) |  | Nov/12/2026 22:13 |
 | 15 | [D - Letters Down](https://codeforces.com/contest/2290/problem/D) | [C++17 (GCC 7-32)](codeforces/2290/D.cpp) |  | Nov/12/2026 22:08 |
