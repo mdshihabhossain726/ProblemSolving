@@ -550,6 +550,18 @@
       "time": 1794498886,
       "file": "codeforces/2290/B.cpp",
       "skip": false
+    },
+    {
+      "id": 398328078,
+      "contestId": 2290,
+      "index": "C",
+      "name": "Books on a Shelf",
+      "rating": null,
+      "tags": [],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794499362,
+      "file": "codeforces/2290/C.cpp",
+      "skip": false
     }
   ]
 }
