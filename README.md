@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**14** problems solved
+**15** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 15 | [D - Letters Down](https://codeforces.com/contest/2290/problem/D) | [C++17 (GCC 7-32)](codeforces/2290/D.cpp) |  | Nov/12/2026 22:08 |
 | 14 | [C - Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | [C++17 (GCC 7-32)](codeforces/2290/C.cpp) |  | Nov/12/2026 22:02 |
 | 13 | [B - Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | [C++17 (GCC 7-32)](codeforces/2290/B.cpp) |  | Nov/12/2026 21:54 |
 | 12 | [A - String Task](https://codeforces.com/contest/118/problem/A) | [C++17 (GCC 7-32)](codeforces/118/A.cpp) | `implementation` `strings` `*1000` | Nov/12/2026 00:47 |

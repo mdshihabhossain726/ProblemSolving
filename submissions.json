@@ -562,6 +562,18 @@
       "time": 1794499362,
       "file": "codeforces/2290/C.cpp",
       "skip": false
+    },
+    {
+      "id": 398331052,
+      "contestId": 2290,
+      "index": "D",
+      "name": "Letters Down",
+      "rating": null,
+      "tags": [],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794499702,
+      "file": "codeforces/2290/D.cpp",
+      "skip": false
     }
   ]
 }
