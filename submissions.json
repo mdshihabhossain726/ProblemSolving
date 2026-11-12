@@ -538,6 +538,18 @@
       "file": null,
       "skip": false,
       "warned": true
+    },
+    {
+      "id": 398323593,
+      "contestId": 2290,
+      "index": "B",
+      "name": "Stubborn Pen",
+      "rating": null,
+      "tags": [],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794498886,
+      "file": "codeforces/2290/B.cpp",
+      "skip": false
     }
   ]
 }
