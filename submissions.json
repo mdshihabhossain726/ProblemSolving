@@ -586,6 +586,18 @@
       "time": 1794500025,
       "file": "codeforces/2290/E.cpp",
       "skip": false
+    },
+    {
+      "id": 398336415,
+      "contestId": 2290,
+      "index": "F",
+      "name": "Value Counters",
+      "rating": null,
+      "tags": [],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794500350,
+      "file": "codeforces/2290/F.cpp",
+      "skip": false
     }
   ]
 }
