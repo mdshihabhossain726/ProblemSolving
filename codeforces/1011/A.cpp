@@ -9,7 +9,6 @@ int main() {
     if (!(cin >> n >> k >> s)) return 0;
 
     sort(s.begin(), s.end());
-
     int total_weight = 0;
     int count = 0;
     int last_val = -2;
