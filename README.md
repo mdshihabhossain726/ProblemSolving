@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**20** problems solved
+**21** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 21 | [A - Stages](https://codeforces.com/contest/1011/problem/A) | [C++17 (GCC 7-32)](codeforces/1011/A.cpp) | `greedy` `implementation` `sortings` `*900` | Nov/13/2026 23:32 |
 | 20 | [H - Extra Road](https://codeforces.com/contest/2290/problem/H) | [C++17 (GCC 7-32)](codeforces/2290/H.cpp) |  | Nov/12/2026 22:38 |
 | 19 | [G2 - Lakeside Trail (Hard Version)](https://codeforces.com/contest/2290/problem/G2) | [C++17 (GCC 7-32)](codeforces/2290/G2.cpp) |  | Nov/12/2026 22:34 |
 | 18 | [G1 - Lakeside Trail (Easy Version)](https://codeforces.com/contest/2290/problem/G1) | [C++17 (GCC 7-32)](codeforces/2290/G1.cpp) |  | Nov/12/2026 22:24 |

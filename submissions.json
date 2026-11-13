@@ -634,6 +634,22 @@
       "time": 1794501508,
       "file": "codeforces/2290/H.cpp",
       "skip": false
+    },
+    {
+      "id": 398462570,
+      "contestId": 1011,
+      "index": "A",
+      "name": "Stages",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794591133,
+      "file": "codeforces/1011/A.cpp",
+      "skip": false
     }
   ]
 }
