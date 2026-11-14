@@ -10,10 +10,8 @@ int main() {
         int n;
         string s;
         cin >> n >> s;
-
         int countSwaps = 0;
         char pen = 'R';
-
         for (int i = 0; i < n; i++) {
             if (s[i] != pen) {
                 countSwaps++;
