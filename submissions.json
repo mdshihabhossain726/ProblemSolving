@@ -650,6 +650,21 @@
       "time": 1794591133,
       "file": "codeforces/1011/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398585881,
+      "contestId": 1352,
+      "index": "A",
+      "name": "Sum of Round Numbers",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794679152,
+      "file": "codeforces/1352/A.cpp",
+      "skip": false
     }
   ]
 }
