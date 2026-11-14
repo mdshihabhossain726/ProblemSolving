@@ -11,7 +11,6 @@ int main() {
         int n;
         string s;
         cin >> n >> s;
-
         vector<bool> need(26, false);
         for (int i = 0; i < n / 2; i++) {
             int l = s[i] - 'a';
@@ -22,7 +21,6 @@ int main() {
                 need[c] = true;
             }
         }
-
         int ans = 0;
         for (int c = 0; c < 26; c++) {
             if (need[c]) ans++;
