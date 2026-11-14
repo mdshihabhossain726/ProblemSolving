@@ -22,7 +22,6 @@ int main() {
             } else {
                 cnt = 1;
             }
-
             if (cnt == 1) {
                 l.push_back(a[i]);
             } else if (cnt == 2) {
@@ -31,9 +30,7 @@ int main() {
                 mid.push_back(a[i]);
             }
         }
-
         reverse(r.begin(), r.end());
-
         cout<< l.size() + r.size()<< "\n";
         for(int x : l) cout << x << " ";
         for(int x : mid) cout << x << " ";
