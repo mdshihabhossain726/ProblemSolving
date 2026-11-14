@@ -26,10 +26,8 @@ int main() {
                 for (int i = n - 1; i >= 0; i--)
                     a[(i - 1 + n) % n] = max(a[(i - 1 + n) % n], a[i] - mid);
             }
-
             long long cost = 0;
             for (int i = 0; i < n; i++) cost += a[i] - h[i];
-
             if (cost <= k) {
                 ans = mid;
                 r = mid - 1;
