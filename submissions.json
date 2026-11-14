@@ -665,6 +665,21 @@
       "time": 1794679152,
       "file": "codeforces/1352/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398588734,
+      "contestId": 1367,
+      "index": "A",
+      "name": "Short Substrings",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "strings"
+      ],
+      "language": "C++17 (GCC 7-32)",
+      "time": 1794680951,
+      "file": "codeforces/1367/A.cpp",
+      "skip": false
     }
   ]
 }

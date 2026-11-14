@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**22** problems solved
+**23** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 23 | [A - Short Substrings](https://codeforces.com/contest/1367/problem/A) | [C++17 (GCC 7-32)](codeforces/1367/A.cpp) | `implementation` `strings` `*800` | Nov/15/2026 00:29 |
 | 22 | [A - Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | [C++17 (GCC 7-32)](codeforces/1352/A.cpp) | `implementation` `math` `*800` | Nov/14/2026 23:59 |
 | 21 | [A - Stages](https://codeforces.com/contest/1011/problem/A) | [C++17 (GCC 7-32)](codeforces/1011/A.cpp) | `greedy` `implementation` `sortings` `*900` | Nov/13/2026 23:32 |
 | 20 | [H - Extra Road](https://codeforces.com/contest/2290/problem/H) | [C++17 (GCC 7-32)](codeforces/2290/H.cpp) |  | Nov/12/2026 22:38 |
