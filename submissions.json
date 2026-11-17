@@ -739,6 +739,20 @@
       "time": 1794919711,
       "file": "codeforces/1352/C.cpp",
       "skip": false
+    },
+    {
+      "id": 398940177,
+      "contestId": 1385,
+      "index": "B",
+      "name": "Restore the Permutation by Merger",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1794920335,
+      "file": "codeforces/1385/B.cpp",
+      "skip": false
     }
   ]
 }
