@@ -680,6 +680,21 @@
       "time": 1794680951,
       "file": "codeforces/1367/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398934621,
+      "contestId": 1475,
+      "index": "A",
+      "name": "Odd Divisor",
+      "rating": 900,
+      "tags": [
+        "math",
+        "number theory"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1794917926,
+      "file": "codeforces/1475/A.cpp",
+      "skip": false
     }
   ]
 }
