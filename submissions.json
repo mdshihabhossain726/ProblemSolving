@@ -710,6 +710,20 @@
       "time": 1794918597,
       "file": "codeforces/1352/B.cpp",
       "skip": false
+    },
+    {
+      "id": 398938161,
+      "contestId": 1385,
+      "index": "A",
+      "name": "Three Pairwise Maximums",
+      "rating": 800,
+      "tags": [
+        "math"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1794919135,
+      "file": "codeforces/1385/A.cpp",
+      "skip": false
     }
   ]
 }
