@@ -695,6 +695,21 @@
       "time": 1794917926,
       "file": "codeforces/1475/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398936408,
+      "contestId": 1352,
+      "index": "B",
+      "name": "Same Parity Summands",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1794918597,
+      "file": "codeforces/1352/B.cpp",
+      "skip": false
     }
   ]
 }
