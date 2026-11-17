@@ -13,24 +13,25 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**26** problems solved
+**27** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
-| 26 | [A - Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/1385/A.cpp) | `math` `*800` | Nov/17/2026 18:38 |
-| 25 | [B - Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | [C++23 (GCC 14-64, msys2)](codeforces/1352/B.cpp) | `constructive algorithms` `math` `*1200` | Nov/17/2026 18:29 |
-| 24 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/1475/A.cpp) | `math` `number theory` `*900` | Nov/17/2026 18:18 |
-| 23 | [A - Short Substrings](https://codeforces.com/contest/1367/problem/A) | [C++17 (GCC 7-32)](codeforces/1367/A.cpp) | `implementation` `strings` `*800` | Nov/15/2026 00:29 |
-| 22 | [A - Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | [C++17 (GCC 7-32)](codeforces/1352/A.cpp) | `implementation` `math` `*800` | Nov/14/2026 23:59 |
-| 21 | [A - Stages](https://codeforces.com/contest/1011/problem/A) | [C++17 (GCC 7-32)](codeforces/1011/A.cpp) | `greedy` `implementation` `sortings` `*900` | Nov/13/2026 23:32 |
-| 20 | [H - Extra Road](https://codeforces.com/contest/2290/problem/H) | [C++17 (GCC 7-32)](codeforces/2290/H.cpp) |  | Nov/12/2026 22:38 |
-| 19 | [G2 - Lakeside Trail (Hard Version)](https://codeforces.com/contest/2290/problem/G2) | [C++17 (GCC 7-32)](codeforces/2290/G2.cpp) |  | Nov/12/2026 22:34 |
-| 18 | [G1 - Lakeside Trail (Easy Version)](https://codeforces.com/contest/2290/problem/G1) | [C++17 (GCC 7-32)](codeforces/2290/G1.cpp) |  | Nov/12/2026 22:24 |
-| 17 | [F - Value Counters](https://codeforces.com/contest/2290/problem/F) | [C++17 (GCC 7-32)](codeforces/2290/F.cpp) |  | Nov/12/2026 22:19 |
-| 16 | [E - Avalanche](https://codeforces.com/contest/2290/problem/E) | [C++17 (GCC 7-32)](codeforces/2290/E.cpp) |  | Nov/12/2026 22:13 |
-| 15 | [D - Letters Down](https://codeforces.com/contest/2290/problem/D) | [C++17 (GCC 7-32)](codeforces/2290/D.cpp) |  | Nov/12/2026 22:08 |
-| 14 | [C - Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | [C++17 (GCC 7-32)](codeforces/2290/C.cpp) |  | Nov/12/2026 22:02 |
-| 13 | [B - Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | [C++17 (GCC 7-32)](codeforces/2290/B.cpp) |  | Nov/12/2026 21:54 |
+| 27 | [A - Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/1385/A.cpp) | `math` `*800` | Nov/17/2026 18:38 |
+| 26 | [B - Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | [C++23 (GCC 14-64, msys2)](codeforces/1352/B.cpp) | `constructive algorithms` `math` `*1200` | Nov/17/2026 18:29 |
+| 25 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/1475/A.cpp) | `math` `number theory` `*900` | Nov/17/2026 18:18 |
+| 24 | [A - Short Substrings](https://codeforces.com/contest/1367/problem/A) | [C++17 (GCC 7-32)](codeforces/1367/A.cpp) | `implementation` `strings` `*800` | Nov/15/2026 00:29 |
+| 23 | [A - Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | [C++17 (GCC 7-32)](codeforces/1352/A.cpp) | `implementation` `math` `*800` | Nov/14/2026 23:59 |
+| 22 | [A - Stages](https://codeforces.com/contest/1011/problem/A) | [C++17 (GCC 7-32)](codeforces/1011/A.cpp) | `greedy` `implementation` `sortings` `*900` | Nov/13/2026 23:32 |
+| 21 | [H - Extra Road](https://codeforces.com/contest/2290/problem/H) | [C++17 (GCC 7-32)](codeforces/2290/H.cpp) |  | Nov/12/2026 22:38 |
+| 20 | [G2 - Lakeside Trail (Hard Version)](https://codeforces.com/contest/2290/problem/G2) | [C++17 (GCC 7-32)](codeforces/2290/G2.cpp) |  | Nov/12/2026 22:34 |
+| 19 | [G1 - Lakeside Trail (Easy Version)](https://codeforces.com/contest/2290/problem/G1) | [C++17 (GCC 7-32)](codeforces/2290/G1.cpp) |  | Nov/12/2026 22:24 |
+| 18 | [F - Value Counters](https://codeforces.com/contest/2290/problem/F) | [C++17 (GCC 7-32)](codeforces/2290/F.cpp) |  | Nov/12/2026 22:19 |
+| 17 | [E - Avalanche](https://codeforces.com/contest/2290/problem/E) | [C++17 (GCC 7-32)](codeforces/2290/E.cpp) |  | Nov/12/2026 22:13 |
+| 16 | [D - Letters Down](https://codeforces.com/contest/2290/problem/D) | [C++17 (GCC 7-32)](codeforces/2290/D.cpp) |  | Nov/12/2026 22:08 |
+| 15 | [C - Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | [C++17 (GCC 7-32)](codeforces/2290/C.cpp) |  | Nov/12/2026 22:02 |
+| 14 | [B - Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | [C++17 (GCC 7-32)](codeforces/2290/B.cpp) |  | Nov/12/2026 21:54 |
+| 13 | [A - Three Piles](https://codeforces.com/contest/2290/problem/A) | [C++17 (GCC 7-32)](codeforces/2290/A.cpp) |  | Nov/12/2026 21:28 |
 | 12 | [A - String Task](https://codeforces.com/contest/118/problem/A) | [C++17 (GCC 7-32)](codeforces/118/A.cpp) | `implementation` `strings` `*1000` | Nov/12/2026 00:47 |
 | 11 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [C++17 (GCC 7-32)](codeforces/69/A.cpp) | `implementation` `math` `*1000` | Nov/11/2026 19:37 |
 | 10 | [A - Minimal Square](https://codeforces.com/contest/1360/problem/A) | [C++17 (GCC 7-32)](codeforces/1360/A.cpp) | `greedy` `math` `*800` | Nov/11/2026 19:02 |
