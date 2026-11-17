@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**27** problems solved
+**28** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 28 | [C - K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | [C++23 (GCC 14-64, msys2)](codeforces/1352/C.cpp) | `binary search` `math` `*1200` | Nov/17/2026 18:48 |
 | 27 | [A - Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/1385/A.cpp) | `math` `*800` | Nov/17/2026 18:38 |
 | 26 | [B - Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | [C++23 (GCC 14-64, msys2)](codeforces/1352/B.cpp) | `constructive algorithms` `math` `*1200` | Nov/17/2026 18:29 |
 | 25 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/1475/A.cpp) | `math` `number theory` `*900` | Nov/17/2026 18:18 |

@@ -724,6 +724,21 @@
       "time": 1794919135,
       "file": "codeforces/1385/A.cpp",
       "skip": false
+    },
+    {
+      "id": 398939153,
+      "contestId": 1352,
+      "index": "C",
+      "name": "K-th Not Divisible by n",
+      "rating": 1200,
+      "tags": [
+        "binary search",
+        "math"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1794919711,
+      "file": "codeforces/1352/C.cpp",
+      "skip": false
     }
   ]
 }
