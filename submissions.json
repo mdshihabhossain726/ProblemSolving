@@ -769,6 +769,20 @@
       "time": 1795165114,
       "file": "codeforces/1409/B.cpp",
       "skip": false
+    },
+    {
+      "id": 399211804,
+      "contestId": 116,
+      "index": "A",
+      "name": "Tram",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1795165587,
+      "file": "codeforces/116/A.cpp",
+      "skip": false
     }
   ]
 }
