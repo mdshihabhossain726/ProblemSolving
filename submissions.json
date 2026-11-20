@@ -797,6 +797,20 @@
       "time": 1795165922,
       "file": "codeforces/144/A.cpp",
       "skip": false
+    },
+    {
+      "id": 399212642,
+      "contestId": 266,
+      "index": "A",
+      "name": "Stones on the Table",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1795166098,
+      "file": "codeforces/266/A.cpp",
+      "skip": false
     }
   ]
 }
