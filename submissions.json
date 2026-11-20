@@ -753,6 +753,22 @@
       "time": 1794920335,
       "file": "codeforces/1385/B.cpp",
       "skip": false
+    },
+    {
+      "id": 399211086,
+      "contestId": 1409,
+      "index": "B",
+      "name": "Minimum Product",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1795165114,
+      "file": "codeforces/1409/B.cpp",
+      "skip": false
     }
   ]
 }
