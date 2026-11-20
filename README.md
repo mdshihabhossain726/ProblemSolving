@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**31** problems solved
+**32** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 32 | [A - Arrival of the General](https://codeforces.com/contest/144/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/144/A.cpp) | `implementation` `*800` | Nov/20/2026 15:12 |
 | 31 | [A - Tram](https://codeforces.com/contest/116/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/116/A.cpp) | `implementation` `*800` | Nov/20/2026 15:06 |
 | 30 | [B - Minimum Product](https://codeforces.com/contest/1409/problem/B) | [C++23 (GCC 14-64, msys2)](codeforces/1409/B.cpp) | `brute force` `greedy` `math` `*1100` | Nov/20/2026 14:58 |
 | 29 | [B - Restore the Permutation by Merger](https://codeforces.com/contest/1385/problem/B) | [C++23 (GCC 14-64, msys2)](codeforces/1385/B.cpp) | `greedy` `*800` | Nov/17/2026 18:58 |

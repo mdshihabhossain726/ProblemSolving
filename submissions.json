@@ -783,6 +783,20 @@
       "time": 1795165587,
       "file": "codeforces/116/A.cpp",
       "skip": false
+    },
+    {
+      "id": 399212341,
+      "contestId": 144,
+      "index": "A",
+      "name": "Arrival of the General",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1795165922,
+      "file": "codeforces/144/A.cpp",
+      "skip": false
     }
   ]
 }
