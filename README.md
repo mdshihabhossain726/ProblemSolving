@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**33** problems solved
+**34** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 34 | [A - Police Recruits](https://codeforces.com/contest/427/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/427/A.cpp) | `implementation` `*800` | Nov/20/2026 15:17 |
 | 33 | [A - Stones on the Table](https://codeforces.com/contest/266/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/266/A.cpp) | `implementation` `*800` | Nov/20/2026 15:14 |
 | 32 | [A - Arrival of the General](https://codeforces.com/contest/144/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/144/A.cpp) | `implementation` `*800` | Nov/20/2026 15:12 |
 | 31 | [A - Tram](https://codeforces.com/contest/116/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/116/A.cpp) | `implementation` `*800` | Nov/20/2026 15:06 |

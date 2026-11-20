@@ -811,6 +811,20 @@
       "time": 1795166098,
       "file": "codeforces/266/A.cpp",
       "skip": false
+    },
+    {
+      "id": 399212883,
+      "contestId": 427,
+      "index": "A",
+      "name": "Police Recruits",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1795166258,
+      "file": "codeforces/427/A.cpp",
+      "skip": false
     }
   ]
 }
