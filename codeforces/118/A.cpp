@@ -13,6 +13,5 @@ int main() {
             cout << "." << (char)tolower(s[i]);
         }
     }
-
     return 0;
 }
