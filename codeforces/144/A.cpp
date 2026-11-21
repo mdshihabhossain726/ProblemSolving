@@ -22,13 +22,10 @@ int main() {
             min_idx = i;
         }
     }
-
     int ans = max_idx + (n - 1 - min_idx);
     if (max_idx > min_idx) {
         ans--;
     }
-
     cout << ans << "\n";
-    
     return 0;
 }
