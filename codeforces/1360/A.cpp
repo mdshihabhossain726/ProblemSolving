@@ -21,6 +21,5 @@ int main() {
             cout << side * side << "\n";
         }
     }
-
     return 0;
 }
