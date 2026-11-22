@@ -12,6 +12,5 @@ int main() {
         cin >> n;
         cout << (n - 1) / 2 << "\n";
     }
-    
     return 0;
 }
