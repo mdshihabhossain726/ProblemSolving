@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**37** problems solved
+**38** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 38 | [A - Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/1335/A.cpp) | `math` `*800` | Nov/23/2026 03:02 |
 | 37 | [A - Maximum Increase](https://codeforces.com/contest/702/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/702/A.cpp) | `dp` `greedy` `implementation` `*800` | Nov/23/2026 02:59 |
 | 36 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/486/A.cpp) | `implementation` `math` `*800` | Nov/23/2026 02:56 |
 | 35 | [A - George and Accommodation](https://codeforces.com/contest/467/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/467/A.cpp) | `implementation` `*800` | Nov/23/2026 02:52 |

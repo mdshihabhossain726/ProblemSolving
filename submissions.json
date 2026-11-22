@@ -870,6 +870,20 @@
       "time": 1795381178,
       "file": "codeforces/702/A.cpp",
       "skip": false
+    },
+    {
+      "id": 399554135,
+      "contestId": 1335,
+      "index": "A",
+      "name": "Candies and Two Sisters",
+      "rating": 800,
+      "tags": [
+        "math"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1795381320,
+      "file": "codeforces/1335/A.cpp",
+      "skip": false
     }
   ]
 }
