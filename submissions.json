@@ -825,6 +825,20 @@
       "time": 1795166258,
       "file": "codeforces/427/A.cpp",
       "skip": false
+    },
+    {
+      "id": 399553635,
+      "contestId": 467,
+      "index": "A",
+      "name": "George and Accommodation",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1795380721,
+      "file": "codeforces/467/A.cpp",
+      "skip": false
     }
   ]
 }
