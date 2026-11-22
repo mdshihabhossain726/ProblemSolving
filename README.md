@@ -13,10 +13,11 @@ Competitive programming solutions, auto-synced to GitHub the moment they get **A
 ## Contents
 
 <!-- SUBMISSIONS:START -->
-**35** problems solved
+**36** problems solved
 
 | # | Title | Solution | Tags | Submitted |
 |---|-------|----------|------|-----------|
+| 36 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/486/A.cpp) | `implementation` `math` `*800` | Nov/23/2026 02:56 |
 | 35 | [A - George and Accommodation](https://codeforces.com/contest/467/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/467/A.cpp) | `implementation` `*800` | Nov/23/2026 02:52 |
 | 34 | [A - Police Recruits](https://codeforces.com/contest/427/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/427/A.cpp) | `implementation` `*800` | Nov/20/2026 15:17 |
 | 33 | [A - Stones on the Table](https://codeforces.com/contest/266/problem/A) | [C++23 (GCC 14-64, msys2)](codeforces/266/A.cpp) | `implementation` `*800` | Nov/20/2026 15:14 |

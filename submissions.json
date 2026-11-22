@@ -839,6 +839,21 @@
       "time": 1795380721,
       "file": "codeforces/467/A.cpp",
       "skip": false
+    },
+    {
+      "id": 399553871,
+      "contestId": 486,
+      "index": "A",
+      "name": "Calculating Function",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1795380998,
+      "file": "codeforces/486/A.cpp",
+      "skip": false
     }
   ]
 }
