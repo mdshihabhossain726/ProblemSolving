@@ -28,6 +28,5 @@ int main() {
         prev = x;
     }
     cout << max_len << "\n";
-
     return 0;
 }
