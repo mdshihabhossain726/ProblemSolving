@@ -854,6 +854,22 @@
       "time": 1795380998,
       "file": "codeforces/486/A.cpp",
       "skip": false
+    },
+    {
+      "id": 399554021,
+      "contestId": 702,
+      "index": "A",
+      "name": "Maximum Increase",
+      "rating": 800,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ],
+      "language": "C++23 (GCC 14-64, msys2)",
+      "time": 1795381178,
+      "file": "codeforces/702/A.cpp",
+      "skip": false
     }
   ]
 }
